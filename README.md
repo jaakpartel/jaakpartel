@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaakpartel, Jaak Pärtel from Estonia
-- 🌍 I’m interested in Ecology and Botany
+- 🌍 I’m interested in Ecology
 - 🌱 I’m currently learning Biology and Environmental Conservation (BSc) in University of Tartu, Estonia
-- 🌿📲 I’m looking to collaborate on plant identification applications
 - 📫 Contact me at jaak.partel@ut.ee
 
 <!---
